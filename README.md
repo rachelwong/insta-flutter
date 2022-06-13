@@ -1,16 +1,21 @@
-# instagram_flutter
+# Instagram clone using Flutter
 
-A new Flutter project.
+As per the label on the tin.
 
-## Getting Started
+The aim of the project is to have a better understanding of flutter, dart language syntax, state management and hooking it up to a backend (Firebase).
 
-This project is a starting point for a Flutter application.
+[Reference](https://youtu.be/mEPm9w5QlJM)
 
-A few resources to get you started if this is your first Flutter project:
+### To run the project
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Clone [repository](https://github.com/rachelwong/insta-flutter)
+* Follow [instructions](https://docs.flutter.dev/get-started/install) to download Flutter SDK onto your local machine
+* Once installed onto machine, run the below commands in the terminal to spin up a local instance of the project:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+  flutter clean
+  flutter pub get
+  flutter run
+```
+
+### Lessons learnt
